@@ -1,13 +1,13 @@
 \name{FMCIkey}
 \alias{FMCIkey}
 \docType{data}
-\title{Fluid Mechanics Concept Inventory (FMCI) key dataset}
+\title{The Fluid Mechanics Concept Inventory (FMCI) key dataset}
 \description{
 The answers key to analyze the students' obtained score on the FMCI.
 }
 \usage{data(FMCIkey)}
 \format{
-  A data frame of a key record on the following 30 FMCI items.
+  A data frame of a key record on the following 30 FMCI items. The FMCI numbering system starts from the item 3.
   \describe{
     \item{\code{FMCI3}}{A key of the FMCI item number 3.}
     \item{\code{FMCI4}}{A key of the FMCI item number 4.}
@@ -42,10 +42,10 @@ The answers key to analyze the students' obtained score on the FMCI.
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Martin, J., Mitchell, J. & Newell, T. Development of a concept inventory for fluid mechanics. in Proceedings of the 33rd Annual Frontiers in Education 2003 vol. 1 T3D (IEEE, 2003).
+Martin, J., Mitchell, J. & Newell, T. Development of a concept inventory for fluid mechanics. in \emph{Proceedings of the 33rd Annual Frontiers in Education 2003 vol. 1 T3D} (IEEE, 2003).
 }
 \examples{
 data(FMCIkey)

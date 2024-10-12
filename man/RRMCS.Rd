@@ -1,9 +1,9 @@
 \name{RRMCS}
 \alias{RRMCS}
 \docType{data}
-\title{Rotational and Rolling Motion Conceptual Survey (RRMCS) dataset}
+\title{The Rotational and Rolling Motion Conceptual Survey (RRMCS) dataset}
 \description{
-The RRMCS could be given to explore students’ ideas in various education levels starting in high school to introductory college. It examines students understanding of rotational motion and notions associated with it through 30 multiple choice items.
+The RRMCS could be given to explore students’ ideas in various education levels starting in high school to introductory college. It examines students' understanding of rotational motion and notions associated with it through 30 multiple choice items.
 }
 \usage{data(RRMCS)}
 \format{
@@ -42,10 +42,10 @@ The RRMCS could be given to explore students’ ideas in various education level
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Rimoldini, L. G. & Singh, C. Student understanding of rotational and rolling motion concepts. Physical Review Special Topics - Physics Education Research 1, 010102 (2005).
+Rimoldini, L. G. & Singh, C. Student understanding of rotational and rolling motion concepts. \emph{Physical Review Special Topics - Physics Education Research 1}, 010102 (2005).
 }
 \examples{
 data(RRMCS)

@@ -1,7 +1,7 @@
 \name{MWCS}
 \alias{MWCS}
 \docType{data}
-\title{Mechanical Waves Conceptual Survey (MWCS) dataset}
+\title{The Mechanical Waves Conceptual Survey (MWCS) dataset}
 \description{
 The MWCS is the most important test to date that has been designed to evaluate students’ understanding of four main topics in mechanical waves. It encompasses some concepts surrounding propagation, superposition, reflection, and standing waves within 22 multiple choice items.
 }
@@ -34,10 +34,10 @@ The MWCS is the most important test to date that has been designed to evaluate s
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Barniol, P. & Zavala, G. Mechanical waves conceptual survey: Its modification and conversion to a standard multiple-choice test. Phys Rev Phys Educ Res 12, 010107 (2016).
+Barniol, P. & Zavala, G. Mechanical waves conceptual survey: Its modification and conversion to a standard multiple-choice test. \emph{Phys Rev Phys Educ Res 12}, 010107 (2016).
 }
 \examples{
 data(MWCS)

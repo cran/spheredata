@@ -1,7 +1,7 @@
 \name{TCE}
 \alias{TCE}
 \docType{data}
-\title{Thermal Concept Evaluation (TCE) dataset}
+\title{The Thermal Concept Evaluation (TCE) dataset}
 \description{
 There are 26 multiple-choice items in the TCE examining students’ alternative concepts on heat, temperature, heat transfer and temperature change, and thermal properties. The alternative concepts are discovered based on former studies, and they are used as a researcher basis to construct the TCE distractors.
 }
@@ -38,10 +38,10 @@ There are 26 multiple-choice items in the TCE examining students’ alternative 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. Phys Teach 39, 496–504 (2001).
+Yeo, S. & Zadnik, M. Introductory thermal concept evaluation: assessing students’ understanding. \emph{Phys Teach 39}, 496–504 (2001).
 }
 \examples{
 data(TCE)

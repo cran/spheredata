@@ -1,9 +1,9 @@
 \name{FCI}
 \alias{FCI}
 \docType{data}
-\title{Force Concept Inventory (FCI) dataset}
+\title{The Force Concept Inventory (FCI) dataset}
 \description{
-The focus of FCI is intended to measure students’ conceptual understanding of Newtonian mechanics. It comprises of 30 multiple-choice items with five possible answers (a key and four distractors).
+The focus of the FCI is intended to measure students’ conceptual understanding of Newtonian mechanics. It comprises of 30 multiple-choice items with five possible responses (a key and four distractors).
 }
 \usage{data(FCI)}
 \format{
@@ -42,10 +42,10 @@ The focus of FCI is intended to measure students’ conceptual understanding of 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. Phys Teach 30, 141–158 (1992).
+Hestenes, D., Wells, M. & Swackhamer, G. Force concept inventory. \emph{Phys Teach 30}, 141–158 (1992).
 }
 \examples{
 data(FCI)

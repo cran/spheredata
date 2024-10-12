@@ -1,9 +1,9 @@
 \name{STPFASL}
 \alias{STPFASL}
 \docType{data}
-\title{Survey of Thermodynamic Processes and First and Second Laws (STPFASL) dataset}
+\title{The Survey of Thermodynamic Processes and First and Second Laws (STPFASL) dataset}
 \description{
-The STPFASL instrument used 33 items in multiple-choice format that are written based on common student difficulties of thermodynamics as resources in that the incorrect answers to the multiple-choice questions were guided by them.
+The STPFASL instrument demonstrates 33 items in multiple-choice format that are written based on common student difficulties of thermodynamics as resources in that the incorrect answers to the multiple-choice questions were guided by them.
 }
 \usage{data(STPFASL)}
 \format{
@@ -45,10 +45,10 @@ The STPFASL instrument used 33 items in multiple-choice format that are written 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1.
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1}, (2024). doi: 10.17632/88d7m2fv7p.1.
 }
 \references{
-Brown, B. & Singh, C. Development and validation of a conceptual survey instrument to evaluate students’ understanding of thermodynamics. Phys Rev Phys Educ Res 17, 010104 (2021).
+Brown, B. & Singh, C. Development and validation of a conceptual survey instrument to evaluate students’ understanding of thermodynamics. \emph{Phys Rev Phys Educ Res 17}, 010104 (2021).
 }
 \examples{
 data(STPFASL)

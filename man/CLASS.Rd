@@ -3,7 +3,7 @@
 \docType{data}
 \title{Colorado Learning Attitudes about Science Survey (CLASS) dataset}
 \description{
-The CLASS originally includes 42 attitudinal items measuring students' attitude toward physics learning within five categories of Likert scale ranging from strongly disagree (1) to strongly agree (5). In this package, we have preprocessed the data based on the scoring rule as suggested by Adams et al. (2006).
+The CLASS originally includes 42 attitudinal items measuring students' attitude toward physics learning within five categories of Likert scale ranging from strongly disagree (1) to strongly agree (5). In this package, thirty-six CLASS items have been preprocessed based on the scoring rule as suggested by Adams et al. (2006).
 }
 \usage{data(CLASS)}
 \format{
@@ -48,10 +48,10 @@ The CLASS originally includes 42 attitudinal items measuring students' attitude 
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1, (2024)}. doi: 10.17632/88d7m2fv7p.1
 }
 \references{
-Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. Physical Review Special Topics - Physics Education Research 2, 010101 (2006).
+Adams, W. K. et al. New instrument for measuring student beliefs about physics and learning physics: The Colorado Learning Attitudes about Science Survey. \emph{Physical Review Special Topics - Physics Education Research 2}, 010101 (2006).
 }
 \examples{
 data(CLASS)

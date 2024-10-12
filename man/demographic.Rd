@@ -1,13 +1,13 @@
 \name{demographic}
 \alias{demographic}
 \docType{data}
-\title{Students' demographic dataset}
+\title{Students' demographic of the SPHERE dataset}
 \description{
 This dataset is used to describe the students' contexts participating in the study.
 }
 \usage{data(demographic)}
 \format{
-  A data frame with 497 observations on the following 13 demographic items.
+  A data frame with 497 observations on the following 8 demographic variables.
   \describe{
     \item{\code{STUDID}}{Students' identity. The first letter denotes the school code. The second one coins the students' cohort within schools. Three last numbers for their alphabetical orders.}
     \item{\code{SCH}}{School sample participated in the study.}
@@ -25,7 +25,7 @@ This dataset is used to describe the students' contexts participating in the stu
   }
 }
 \source{
-Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). Mendeley Data, V1, (2024). doi: 10.17632/88d7m2fv7p.1
+Santoso, P. H. et al. SPHERE: Students' performance dataset of conceptual understanding, scientific ability, and learning attitude in physics education research (PER). \emph{Mendeley Data, V1, (2024)}. doi: 10.17632/88d7m2fv7p.1
 }
 %\references{
 %}
