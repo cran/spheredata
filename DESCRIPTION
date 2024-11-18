@@ -1,7 +1,7 @@
 Package: spheredata
 Title: Students' Performance Dataset in Physics Education Research
         (SPHERE)
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Purwoko Haryadi", "Santoso", email = "purwokoharyadisantoso@unsulbar.ac.id", role = c("aut", "cre"), comment = c(ORCID = "<0000-0002-7093-5309>")),
     person("Edi", "Istiyono", role = "ctb"),
@@ -16,10 +16,10 @@ RoxygenNote: 7.3.2
 Depends: R (>= 3.5.0)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2024-10-12 16:11:40 UTC; ASUS
+Packaged: 2024-11-18 05:41:18 UTC; ASUS
 Author: Purwoko Haryadi Santoso [aut, cre]
     (<https://orcid.org/0000-0002-7093-5309>),
   Edi Istiyono [ctb],
   Haryanto Haryanto [ctb]
 Repository: CRAN
-Date/Publication: 2024-10-12 23:40:08 UTC
+Date/Publication: 2024-11-18 06:00:02 UTC
